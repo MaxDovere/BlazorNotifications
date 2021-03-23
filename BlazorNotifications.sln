@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorNotifications", "BlazorNotifications.csproj", "{437C3ED7-8947-4109-9D45-9B8FB058078F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Notifications", "..\WebApi.Notifications\WebApi.Notifications.csproj", "{93581613-4F68-4559-B4FC-C4AF5EA10EA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437C3ED7-8947-4109-9D45-9B8FB058078F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437C3ED7-8947-4109-9D45-9B8FB058078F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437C3ED7-8947-4109-9D45-9B8FB058078F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437C3ED7-8947-4109-9D45-9B8FB058078F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93581613-4F68-4559-B4FC-C4AF5EA10EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93581613-4F68-4559-B4FC-C4AF5EA10EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93581613-4F68-4559-B4FC-C4AF5EA10EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93581613-4F68-4559-B4FC-C4AF5EA10EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2900CC3-CF69-4955-93CE-0AAEBE0D95E4}
+	EndGlobalSection
+EndGlobal
